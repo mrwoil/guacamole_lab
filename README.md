@@ -18,6 +18,8 @@ Markdown and Latex: https://ashki23.github.io/markdown-latex.html
 ```bash
 git clone <url> 
 ```
+![unix](Unix_command_cheatsheet.pdf)
+
 
 **git status:** check the current situation of the local repository
 ```bash
